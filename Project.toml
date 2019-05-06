@@ -1,0 +1,8 @@
+name = "NewtonFractals"
+uuid = "7d752eaa-7038-11e9-0fac-b1c568e11dda"
+authors = ["Paulo José Saiz Jabardo <pjabardo@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
